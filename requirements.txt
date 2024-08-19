@@ -1,5 +1,5 @@
 Flask==2.3.2
-nudenet==0.6.0
+nudenet==3.4.2
 opencv-python-headless==4.7.0.72
 requests==2.31.0
 gunicorn==20.1.0
